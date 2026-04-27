@@ -37,7 +37,7 @@
 ### Tools & Platforms
 <div align="center">
 
-[![Tools and platforms: Git, GitHub, VS Code, Android Studio, Linux, AWS](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,aws&theme=dark)](https://skillicons.dev)
+[![Tools and platforms: Git, GitHub, VS Code, Android Studio, Anaconda, Linux, AWS, Heroku](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,anaconda,linux,aws,heroku&theme=dark)](https://skillicons.dev)
 
 </div>
 
