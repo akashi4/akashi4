@@ -23,7 +23,7 @@
 ### Languages
 <div align="center">
 
-[![Programming languages: Python, Java, Dart, Kotlin](https://skillicons.dev/icons?i=python,java,dart,kotlin&theme=dark)](https://skillicons.dev)
+[![Programming languages: Python, Java, Dart, Kotlin, HTML, CSS, JavaScript](https://skillicons.dev/icons?i=python,java,dart,kotlin,html,css,js&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -37,7 +37,14 @@
 ### Tools & Platforms
 <div align="center">
 
-[![Tools and platforms: Git, GitHub, VS Code, Android Studio](https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark)](https://skillicons.dev)
+[![Tools and platforms: Git, GitHub, VS Code, Android Studio, Linux, AWS](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,aws&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Databases
+<div align="center">
+
+[![Databases: MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark)](https://skillicons.dev)
 
 </div>
 
