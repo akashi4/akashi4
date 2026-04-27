@@ -30,7 +30,7 @@
 ### Frameworks & Libraries
 <div align="center">
 
-[![Frameworks and libraries: Flutter, TensorFlow](https://skillicons.dev/icons?i=flutter,tensorflow&theme=dark)](https://skillicons.dev)
+[![Frameworks and libraries: Flutter, TensorFlow, HuggingFace, PyTorch](https://skillicons.dev/icons?i=flutter,tensorflow,huggingface,pytorch&theme=dark)](https://skillicons.dev)
 
 </div>
 
