@@ -23,28 +23,28 @@
 ### Languages
 <div align="center">
 
-[![Programming languages: Python, JavaScript, TypeScript, Java, Go, Rust, C++, C, HTML, CSS](https://skillicons.dev/icons?i=python,js,ts,java,go,rust,cpp,c,html,css&theme=dark)](https://skillicons.dev)
+[![Programming languages: Python, Java, Dart, Kotlin, HTML, CSS, JavaScript](https://skillicons.dev/icons?i=python,java,dart,kotlin,html,css,js&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ### Frameworks & Libraries
 <div align="center">
 
-[![Frameworks and libraries: React, Next.js, Vue, Node.js, Express, FastAPI, Django, Spring](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,fastapi,django,spring&theme=dark)](https://skillicons.dev)
+[![Frameworks and libraries: Flutter, TensorFlow, HuggingFace, PyTorch](https://skillicons.dev/icons?i=flutter,tensorflow,huggingface,pytorch&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ### Tools & Platforms
 <div align="center">
 
-[![Tools and platforms: Git, GitHub, Docker, Kubernetes, Linux, AWS, GCP, VS Code](https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,aws,gcp,vscode&theme=dark)](https://skillicons.dev)
+[![Tools and platforms: Git, GitHub, VS Code, Android Studio, Linux, AWS](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,aws&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ### Databases
 <div align="center">
 
-[![Databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark)](https://skillicons.dev)
+[![Databases: MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark)](https://skillicons.dev)
 
 </div>
 
