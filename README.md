@@ -23,28 +23,28 @@
 ### Languages
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,go,rust,cpp,c,html,css&theme=dark)](https://skillicons.dev)
+[![Programming languages: Python, JavaScript, TypeScript, Java, Go, Rust, C++, C, HTML, CSS](https://skillicons.dev/icons?i=python,js,ts,java,go,rust,cpp,c,html,css&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ### Frameworks & Libraries
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,fastapi,django,spring&theme=dark)](https://skillicons.dev)
+[![Frameworks and libraries: React, Next.js, Vue, Node.js, Express, FastAPI, Django, Spring](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,fastapi,django,spring&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ### Tools & Platforms
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,aws,gcp,vscode&theme=dark)](https://skillicons.dev)
+[![Tools and platforms: Git, GitHub, Docker, Kubernetes, Linux, AWS, GCP, VS Code](https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,aws,gcp,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ### Databases
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark)](https://skillicons.dev)
+[![Databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -54,8 +54,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashi4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashi4&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashi4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub statistics for akashi4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashi4&layout=compact&langs_count=8&theme=tokyonight" alt="Top programming languages for akashi4"/>
 
 </div>
 
